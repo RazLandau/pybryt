@@ -1,4 +1,4 @@
-def max_div_seq(n, k):
+def max_div_seq2(n, k):
     cnt_chk = 0
     cnt_max = 0
     n_to_str = str(n)
